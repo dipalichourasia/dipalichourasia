@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipalichourasia" target="blank"><img src="https://img.shields.io/twitter/follow/dipalichourasia?logo=twitter&style=for-the-badge" alt="dipalichourasia" /></a> </p>
 
-- 👋 Hi, I’m **@dipalichourasia**
+- 👋 Hi, I’m **dipalichourasia**
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dipalichourasia/](https://github.com/dipalichourasia/)
 
-- 🌎 I know [English, Hindi & Marathi](English, Hindi & Marathi)
+- 🌎 I know English, Hindi & Marathi
 
 - 💬 Ask me about **Frontend Development, Software Development**
 
