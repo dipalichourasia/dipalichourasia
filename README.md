@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dipalichourasia/](https://github.com/dipalichourasia/)
 
-- 🌎 I know English, Hindi & Marathi
+- 🌎 I know **English, Hindi & Marathi**
 
 - 💬 Ask me about **Frontend Development, Software Development**
 
